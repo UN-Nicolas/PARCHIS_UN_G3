@@ -15,7 +15,7 @@ El objetivo sigue siendo el mismo: mover tus fichas alrededor del tablero según
 --->Requisitos:
 1. Python
 2. Vs code (opcional)
-3. Random (Liblreria)
+3. Random (Libreria)
 
 
 32gb de RAM (obligatorio)
