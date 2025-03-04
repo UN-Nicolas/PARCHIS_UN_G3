@@ -18,9 +18,9 @@ El objetivo sigue siendo el mismo: mover tus fichas alrededor del tablero según
 3. Random (Liblreria)
 
 
-36gb de RAM (obligatorio)
-ryzen 7 4gen (obligatorio)
-RTX 4050 (obligatorio)
+32gb de RAM (obligatorio)
+ryzen 7 9800x3d (obligatorio)
+RTX 4080ti (obligatorio)
 
 --->Ejecutar el juego:
 1. descarga archivo .py anexado en la parte superior del repositorio (Parchis_G3.py).
