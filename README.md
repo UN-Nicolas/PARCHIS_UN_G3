@@ -27,4 +27,4 @@ RTX 4080ti (obligatorio)
 2. Correr el codigo
 # Video
 
---->
+---> https://youtu.be/suawyYNThNo
